@@ -1,6 +1,12 @@
-# Math Tools By ter21669
-Quadratic equation solution tool - 二次方程式 解の公式算出ツール
+# Math Tools By ter21669 #
 
-Hello everyone. I'm ter21669, a beginner developer. This is my first repository, and I'm self-taught in C language to develop a simple math-related tool. Since this is just a hobby, the update frequency may be low and the quality may be low, so please bear that in mind. I've attached the executable file and source code, so it should work if you compile it in any environment.
---------------------
-みなさん、こんにちは。初心者開発者のter21669です。初のリポジドリということで、C言語で簡単な数学にまつわるツールの開発を独学でしています。趣味程度なので更新頻度が低かったり、クオリティが低かったりする可能性がありますが、そこのところはご了承いただきたいです。一応exeファイルならびにソースコードを張り付けておくので、どの環境でもコンパイルを行えば動作すると思います。
+みなさん、こんにちは。初心者開発者のter21669です。初のリポジドリということで、C言語で簡単な数学にまつわるツールの開発を独学でしています。趣味程度なので更新頻度が低かったり、クオリティが低かったりする可能性がありますが、そこのところはご了承いただきたいです。一応exeファイルならびにソースコードを張り付けておくので、どの環境でもコンパイルを行えば動作すると思います。 
+
+---------------------------
+# 各ツールの使い方について #
+---------------------------
+
+# No1. Quadratic equation solution tool - 二次方程式 解の公式算出ツール #
+使い方はいたって簡単です。x^2の係数(ただし≠0), xの係数, 定数項を入力すれば、さっと解を算出してくれます。
+判別式により区別し、虚数解の場合には解を表示しない方式をとっております。
+また、現時点で整数値にしか対応していないため後々のパッチで修正される...かも...?
