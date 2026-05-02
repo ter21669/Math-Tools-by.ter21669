@@ -5,4 +5,4 @@
 ---------------------------
 # ツール一覧 #
 
-No1. Quadratic equation solution tool - 二次方程式 解の公式算出ツール
+No1. Quadratic equation solution tool - 二次方程式 解算出ツール
