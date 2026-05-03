@@ -6,3 +6,4 @@
 # ツール一覧 #
 
 No1. Quadratic equation solution tool - 二次方程式 解算出ツール
+No.2 Simultaneous equation solution tool - 連立二元一次方程式 解算出ツール
